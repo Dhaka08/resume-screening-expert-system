@@ -1,19 +1,18 @@
-# Python
+# Python cache
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-.env
+
+# Virtual environments
 .venv/
 venv/
+
+# Uploads and PDFs
+backend/uploads/
+*.pdf
 
 # Jupyter
 .ipynb_checkpoints/
 
-# Uploads / PDFs
-backend/uploads/
-*.pdf
-
-# OS
-.DS_Store
+# OS files
 Thumbs.db
+.DS_Store
