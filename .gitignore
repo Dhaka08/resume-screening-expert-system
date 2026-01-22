@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Uploads / PDFs
+backend/uploads/
+*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
