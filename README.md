@@ -47,5 +47,5 @@ resume_screening_system/
 
 ### 1) Clone the repository
 ```bash
-git clone <https://github.com/Dhaka08/resume-screening-expert-system>
+git clone https://github.com/Dhaka08/resume-screening-expert-system
 cd resume_screening_system
